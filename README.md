@@ -14,7 +14,7 @@ My engineering work has included test-code generation, API-based test platforms,
 
 ## Public project
 
-[**Personal profile and file-management application (AI_Fun)**](https://github.com/tomdobrien/AI_Fun) — a personal project using FastAPI, SQLAlchemy, SQLite, and Next.js/TypeScript. It includes profile editing, account permissions, file uploads and previews, database migrations, and deployment documentation. See the repository for setup, checks, and limitations.
+[**Personal profile and file-management application (Profile Vault)**](https://github.com/tomdobrien/profile-vault) — a personal project using FastAPI, SQLAlchemy, SQLite, and Next.js/TypeScript. It includes profile editing, account permissions, file uploads and previews, database migrations, and deployment documentation. See the repository for setup, checks, and limitations.
 
 This GitHub account includes personal experiments and learning exercises. Public repositories are not a complete record of my professional work.
 
